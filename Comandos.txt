@@ -4,3 +4,5 @@ git log --oneline
 git add nombredelarchivo ()
 git commit -m
 git add . (Añade todos los archivos del directorio)
+
+git commit -am (Añade los cambios y hace el commit)
