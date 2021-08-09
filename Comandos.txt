@@ -1,0 +1,6 @@
+git status -s
+git reset --hard codigodelcambio
+git log --oneline
+git add nombredelarchivo ()
+git commit -m
+git add . (Añade todos los archivos del directorio)
