@@ -1,8 +1,8 @@
-git status -s
-git reset --hard codigodelcambio
-git log --oneline
-git add nombredelarchivo ()
-git commit -m
+git status -s (Muestra los cambios realizados en los archivos al momento)
+git reset --hard codigodelcambio (Retrotaer el proyecto)
+git log --oneline (Muestra la lista de commits)
+git add nombredelarchivo (añade el archivo especificado)
+git commit -m (Commit con comentario)
 git add . (Añade todos los archivos del directorio)
-
 git commit -am (Añade los cambios y hace el commit)
+git push origin master <linkdelrepositorio> 
