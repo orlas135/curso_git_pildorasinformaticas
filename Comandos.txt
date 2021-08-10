@@ -5,4 +5,6 @@ git add nombredelarchivo (añade el archivo especificado)
 git commit -m (Commit con comentario)
 git add . (Añade todos los archivos del directorio)
 git commit -am (Añade los cambios y hace el commit)
-git push origin master <linkdelrepositorio> 
+git push origin master <linkdelrepositorio>
+git pull <linkdelrepositorio>
+git tag <nombredelatag> -m <comentariodeseado>
